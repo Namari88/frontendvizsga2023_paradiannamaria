@@ -1,0 +1,26 @@
+
+section {
+  background-color: quote-backgound;
+}
+
+p {
+  float: right;
+}
+
+img {
+  float: right;
+  width: 25%;
+}
+
+
+
+ul li:nth-child(1) {
+  font-weight: bold;
+}
+
+blockquote {
+  text-align: center;
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 5px;
+}
